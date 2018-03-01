@@ -1,8 +1,8 @@
-# AndroidLibs == Kotlin
+# AndroidResource == Kotlin
 
 包含：各种 Kotlin 语言的介绍,使用,开发库
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
+[<==返回首页==](https://github.com/pakakco/AndroidResource)
 
 ---
 

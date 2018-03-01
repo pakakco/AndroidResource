@@ -1,8 +1,8 @@
-# AndroidLibs == Gradle
+# AndroidResource == Gradle
 
 包含：各种 Gradle 相关插件及 AS 中插件等
 
-[<==返回首页==](https://github.com/XXApple/AndroidLibs)
+[<==返回首页==](https://github.com/pakakco/AndroidResource)
 
 ---
 
